@@ -19,3 +19,11 @@ I love robotics and electronic hardware in general! Having taken many phones, a 
 ### Speedcubing
 I am a competitive speedcuber! I main the event Skewb and actively practice many events. As a member of a niche community, I have learnt the impact of open-sourcing projects and helping out others through speedcubing apart from just problem solving or solution optimization. It has caused me to strive to be a more impactful member of society and a perfectionist when it comes to many minute details. 
 <br> I always have a cube laying around on my desk!
+
+## Currently Doing
+
+### Studying for USAAIO
+Doing 'Essence of Linear Algebra' by 3Blue1Brown, MIT 6.S191 & Harvard's CS50AI
+### [Compelting Project Skeffy](https://github.com/cube2ishaank-debug/Project-Skeffy)
+Beginning to format data and begin training AI model. 
+### Speedcubing as always!
