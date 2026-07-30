@@ -23,9 +23,8 @@ I am a competitive speedcuber! I main the event Skewb and actively practice many
 ## Currently Doing
 
 ### Studying for USAAIO
-Doing 'Essence of Linear Algebra' and 'Deep Learning' by 3Blue1Brown, MIT 6.S191 & Harvard's CS50AI
+From 3Blue1Brown, doing 'Essence of Linear Algebra' and 'Deep Learning'.
+From Deeplearning.ai, doing '[Mathematics for Machine Learning and Data Science](https://www.deeplearning.ai/specializations/mathematics-for-machine-learning-and-data-science)' and '[Deep Learning Specialization](https://www.deeplearning.ai/specializations/deep-learning).'
 ### [Compelting Project Skeffy](https://github.com/cube2ishaank-debug/Project-Skeffy)
-Beginning to format data and begin training AI model. 
-### Completing Correspondence Courses
-AP CSP & Honors Geometry
+Creating an unsupervised learning AI model. 
 ### Speedcubing as always!
