@@ -27,4 +27,6 @@ From 3Blue1Brown, doing 'Essence of Linear Algebra' and 'Deep Learning'.
 From Deeplearning.ai, doing '[Mathematics for Machine Learning and Data Science](https://www.deeplearning.ai/specializations/mathematics-for-machine-learning-and-data-science)' and '[Deep Learning Specialization](https://www.deeplearning.ai/specializations/deep-learning).'
 ### [Compelting Project Skeffy](https://github.com/cube2ishaank-debug/Project-Skeffy)
 Creating an unsupervised learning AI model. 
+### Beginning a Research Project
+Developing a repository and program for a research paper that will be submitted to DRSEF.
 ### Speedcubing as always!
