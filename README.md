@@ -1,7 +1,7 @@
 # Hi, I am Ishaank Bansal!
 ### 💻 AI Explorer | 🏎️ Hardware Tinkerer | 🧩 Competitive Speedcuber (Skewb Main) <br><br>
 ## Introduction
- I am Ishaank Bansal, a 14 year-old who loves coding. As a rising sophomore in High School, I am exploring and learning about AI as I go!
+ I am Ishaank Bansal, a 15 year-old who loves coding. As a sophomore in High School, I am exploring and learning about AI as I go!
 ## Expertise
 As a CS student, I am focused towards AI and focus on creating neural networks, classifiers and CV models. I have experience working with AI frameworks, neural networks, k-nn models and many more types of AI algorithms. I primarily code in Python, however I can code in HTML and CSS too! I am currently also learning Java and C++ to expand the possible usecases of my projects like being able to create arduino projects.
 ## Know more about me:
