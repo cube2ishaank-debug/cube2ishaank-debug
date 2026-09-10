@@ -14,8 +14,12 @@ I am an enthusiast car guy, but unlike the other ones, I care for what is under 
 #### Hardware & Taking it Apart 🛠️
 I love robotics and electronic hardware in general! Having taken many phones, a laptop and even a smartwatch, I love learning about the underlying components to a finsihed product. I have learnt woodworking, AutoDesk Fusion 360, Blender & TinkerCAD to learn to create actual products and created many online projects like ergonomic keycaps and various physical projects in groups including a foldable light-weight crutch! 
 <br><br>With a mechanical keyboard that fuels my coding journey, I have explored making it sound "thocky" and "marbly", modding the keyboard.
+
+
 <br>One of the most ambitious projects currently sitting under progress is a drill-powered car! Having a life-size cardboard prototype of the chasis already ready, the actual car is still under construction.
-<br> Lastly, a future project that I have already begun research on, are performance-focused phone cases that improve heat dissipation, heavy-, audio and potentially even capturing photos or videos!
+
+
+<br> Lastly, a future project that I have already begun research on, are performance-focused phone cases that improve heat dissipation, audio and potentially even capturing photos or videos with better lighting conditions!
 ### Speedcubing
 I am a competitive speedcuber! I main the event Skewb and actively practice many events. As a member of a niche community, I have learnt the impact of open-sourcing projects and helping out others through speedcubing apart from just problem solving or solution optimization. It has caused me to strive to be a more impactful member of society and a perfectionist when it comes to many minute details. 
 <br> I always have a cube laying around on my desk!
